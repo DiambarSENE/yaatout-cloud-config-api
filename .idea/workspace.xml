@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c681bad6-4224-4b99-95eb-9de326712907" name="Changes" comment="" />
+    <list default="true" id="c681bad6-4224-4b99-95eb-9de326712907" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/yaatout-paramettres-api-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yaatout-paramettres-api-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yaatout-paramettres-api.properties" beforeDir="false" afterPath="$PROJECT_DIR$/yaatout-paramettres-api.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yaatout.proxy.api.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yaatout.registry.api.properties" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -26,9 +36,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/JCaisse/api/cloud-config"
+    "last_opened_file_path": "D:/JCaisse/api/yaatout-cloud-config-api-jcaisse-deux"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JCaisse\api\yaatout-cloud-config-api-jcaisse-deux" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,5 +54,16 @@
       <updated>1700302767271</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
