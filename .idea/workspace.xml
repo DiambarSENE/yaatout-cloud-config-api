@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c681bad6-4224-4b99-95eb-9de326712907" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/yaatout-utilisateur-api-dev.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yaatout-utilisateur-api-prod.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yaatout-utilisateur-api.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yaatout-paramettres-api-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/yaatout-paramettres-api-dev.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +31,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/JCaisse/api/yaatout-cloud-config-api"
+    "last_opened_file_path": "D:/JCaisse/api/yaatout-config-api"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JCaisse\api\yaatout-cloud-config-api" />
       <recent name="D:\JCaisse\api\yaatout-cloud-config-api-jcaisse-deux" />
     </key>
   </component>
