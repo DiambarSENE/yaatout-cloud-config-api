@@ -13,6 +13,11 @@
             <RepoSettings />
           </value>
         </entry>
+        <entry key="https://github.com/DiambarSENE/yaatout-cloud-config-api.git">
+          <value>
+            <RepoSettings />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
